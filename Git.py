@@ -3,3 +3,8 @@ def load_up():
 
 
 load_up()
+
+def another_message():
+    print("I have now officially learnt the basics of github and now I can work anywhere across the world!")
+
+another_message()
