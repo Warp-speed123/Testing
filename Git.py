@@ -8,3 +8,8 @@ def another_message():
     print("I have now officially learnt the basics of github and now I can work anywhere across the world!")
 
 another_message()
+
+def new_lesson():
+    print("I have now learnt to use branches in github")
+
+new_lesson()
